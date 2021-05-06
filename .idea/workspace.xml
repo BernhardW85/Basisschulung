@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86cea7bc-34aa-4241-8f59-808bd9831939" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nHHgRdSjRyTNbvUTy4dyNHMzkT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.lesson12_matplot_5">
+    <configuration name="Sankey" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Basisschulung" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sankey.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lesson12_matplot_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Basisschulung" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson12_matplot_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lesson12_matplot_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Basisschulung" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson12_matplot_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lesson12_matplot_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Basisschulung" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson12_matplot_4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lesson12_matplot_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Basisschulung" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson12_matplot_5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.lesson12_matplot_5" />
+        <item itemvalue="Python.Sankey" />
+        <item itemvalue="Python.lesson12_matplot_4" />
+        <item itemvalue="Python.lesson12_matplot_3" />
+        <item itemvalue="Python.lesson12_matplot_2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86cea7bc-34aa-4241-8f59-808bd9831939" name="Default Changelist" comment="" />
+      <created>1611040206242</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611040206242</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1616659039969">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="414" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/-292.-1080.1920.1040@0.0.1366.728" timestamp="1616659039969" />
+    <state x="562" y="99" key="FileChooserDialogImpl" timestamp="1620283827321">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="562" y="99" key="FileChooserDialogImpl/0.0.1366.728/-292.-1080.1920.1040@0.0.1366.728" timestamp="1620283827321" />
+    <state x="551" y="262" key="Github.ShareDialog" timestamp="1620284444850">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="551" y="262" key="Github.ShareDialog/0.0.1366.728/-292.-1080.1920.1040@0.0.1366.728" timestamp="1620284444850" />
+    <state x="371" y="69" key="Github.UntrackedFilesDialog" timestamp="1620284567867">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="371" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728/-292.-1080.1920.1040@0.0.1366.728" timestamp="1620284567867" />
+    <state width="1345" height="148" key="GridCell.Tab.0.bottom" timestamp="1620283930823">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1899" height="238" key="GridCell.Tab.0.bottom/0.0.1366.728/-292.-1080.1920.1040@-292.-1080.1920.1040" timestamp="1611650168816" />
+    <state width="1345" height="148" key="GridCell.Tab.0.bottom/0.0.1366.728/-292.-1080.1920.1040@0.0.1366.728" timestamp="1620283930823" />
+    <state width="1345" height="148" key="GridCell.Tab.0.center" timestamp="1620283930823">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1899" height="238" key="GridCell.Tab.0.center/0.0.1366.728/-292.-1080.1920.1040@-292.-1080.1920.1040" timestamp="1611650168816" />
+    <state width="1345" height="148" key="GridCell.Tab.0.center/0.0.1366.728/-292.-1080.1920.1040@0.0.1366.728" timestamp="1620283930823" />
+    <state width="1345" height="148" key="GridCell.Tab.0.left" timestamp="1620283930823">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1899" height="238" key="GridCell.Tab.0.left/0.0.1366.728/-292.-1080.1920.1040@-292.-1080.1920.1040" timestamp="1611650168816" />
+    <state width="1345" height="148" key="GridCell.Tab.0.left/0.0.1366.728/-292.-1080.1920.1040@0.0.1366.728" timestamp="1620283930823" />
+    <state width="1345" height="148" key="GridCell.Tab.0.right" timestamp="1620283930823">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1899" height="238" key="GridCell.Tab.0.right/0.0.1366.728/-292.-1080.1920.1040@-292.-1080.1920.1040" timestamp="1611650168816" />
+    <state width="1345" height="148" key="GridCell.Tab.0.right/0.0.1366.728/-292.-1080.1920.1040@0.0.1366.728" timestamp="1620283930823" />
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1618473796617">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728/-292.-1080.1920.1040@0.0.1366.728" timestamp="1618473796617" />
+    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1618473796617">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728/-292.-1080.1920.1040@0.0.1366.728" timestamp="1618473796617" />
+    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1618473796617">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728/-292.-1080.1920.1040@0.0.1366.728" timestamp="1618473796617" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1618473796617">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728/-292.-1080.1920.1040@0.0.1366.728" timestamp="1618473796617" />
+    <state x="46" y="0" key="SettingsEditor" timestamp="1620284253659">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="169" y="-915" key="SettingsEditor/0.0.1366.728/-292.-1080.1920.1040@-292.-1080.1920.1040" timestamp="1611648516235" />
+    <state x="46" y="0" key="SettingsEditor/0.0.1366.728/-292.-1080.1920.1040@0.0.1366.728" timestamp="1620284253659" />
+  </component>
+</project>
