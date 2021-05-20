@@ -26,14 +26,12 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="GROUP_NODE:bug" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:bug/bugfix1" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86cea7bc-34aa-4241-8f59-808bd9831939" name="Default Changelist" comment="new commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testfile.txt" afterDir="false" />
-    </list>
+    <list default="true" id="86cea7bc-34aa-4241-8f59-808bd9831939" name="Default Changelist" comment="new gitignore" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +47,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Erster_Branch" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -217,21 +215,7 @@
       <option name="project" value="LOCAL" />
       <updated>1620717780094</updated>
     </task>
-    <task id="LOCAL-00004" summary="new commit">
-      <created>1621492642826</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1621492642826</updated>
-    </task>
-    <task id="LOCAL-00005" summary="new commit">
-      <created>1621492856067</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1621492856067</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -239,7 +223,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="bug/bugfix1" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -248,8 +244,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new gitignore" />
-    <MESSAGE value="new commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="new commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="new gitignore" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1616659039969">
@@ -308,11 +303,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="46" y="0" key="SettingsEditor/0.0.1366.728/-292.-1080.1920.1040@0.0.1366.728" timestamp="1620284253659" />
-    <state x="393" y="177" key="Vcs.Push.Dialog.v2" timestamp="1621492937182">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="260" y="-827" key="Vcs.Push.Dialog.v2" timestamp="1620717784210">
+      <screen x="-292" y="-1080" width="1920" height="1040" />
     </state>
-    <state x="260" y="-827" key="Vcs.Push.Dialog.v2/0.0.1366.728/-292.-1080.1920.1040@-292.-1080.1920.1040" timestamp="1621492722681" />
-    <state x="393" y="177" key="Vcs.Push.Dialog.v2/0.0.1366.728/-292.-1080.1920.1040@0.0.1366.728" timestamp="1621492937182" />
+    <state x="260" y="-827" key="Vcs.Push.Dialog.v2/0.0.1366.728/-292.-1080.1920.1040@-292.-1080.1920.1040" timestamp="1620717784210" />
     <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620285622031">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
