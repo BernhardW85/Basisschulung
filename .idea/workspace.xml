@@ -25,13 +25,15 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:bug" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:bug/bugfix1" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86cea7bc-34aa-4241-8f59-808bd9831939" name="Default Changelist" comment="new gitignore" />
+    <list default="true" id="86cea7bc-34aa-4241-8f59-808bd9831939" name="Default Changelist" comment="new commit">
+      <change afterPath="$PROJECT_DIR$/word_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,10 +66,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GitHub/Bio/bio-cluster" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.lesson12_matplot_5">
+  <component name="RunManager" selected="Python.word_test">
     <configuration name="Sankey" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Basisschulung" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,27 +83,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sankey.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="lesson12_matplot_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Basisschulung" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson12_matplot_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,13 +154,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="word_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Basisschulung" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/word_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Sankey" />
+        <item itemvalue="Python.word_test" />
         <item itemvalue="Python.lesson12_matplot_5" />
+        <item itemvalue="Python.Sankey" />
         <item itemvalue="Python.lesson12_matplot_4" />
         <item itemvalue="Python.lesson12_matplot_3" />
-        <item itemvalue="Python.lesson12_matplot_2" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620717780094</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new commit">
+      <created>1621494493656</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1621494493656</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -229,7 +238,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="bug/bugfix1" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -244,17 +253,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="new gitignore" />
+    <MESSAGE value="new commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="new commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1616659039969">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="414" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/-292.-1080.1920.1040@0.0.1366.728" timestamp="1616659039969" />
-    <state x="562" y="99" key="FileChooserDialogImpl" timestamp="1620283827321">
+    <state x="562" y="99" key="FileChooserDialogImpl" timestamp="1622038998385">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="562" y="99" key="FileChooserDialogImpl/0.0.1366.728/-292.-1080.1920.1040@0.0.1366.728" timestamp="1620283827321" />
+    <state x="562" y="99" key="FileChooserDialogImpl/0.0.1366.728/-292.-1080.1920.1040@0.0.1366.728" timestamp="1622038998385" />
     <state x="551" y="262" key="Github.ShareDialog" timestamp="1620284444850">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -263,22 +273,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="371" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728/-292.-1080.1920.1040@0.0.1366.728" timestamp="1620284567867" />
-    <state width="1345" height="148" key="GridCell.Tab.0.bottom" timestamp="1620285711549">
+    <state width="1345" height="148" key="GridCell.Tab.0.bottom" timestamp="1622099169395">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="148" key="GridCell.Tab.0.bottom/0.0.1366.728/-292.-1080.1920.1040@0.0.1366.728" timestamp="1620285711549" />
-    <state width="1345" height="148" key="GridCell.Tab.0.center" timestamp="1620285711549">
+    <state width="1345" height="148" key="GridCell.Tab.0.bottom/0.0.1366.728/-292.-1080.1920.1040@0.0.1366.728" timestamp="1622099169395" />
+    <state width="1345" height="148" key="GridCell.Tab.0.center" timestamp="1622099169395">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="148" key="GridCell.Tab.0.center/0.0.1366.728/-292.-1080.1920.1040@0.0.1366.728" timestamp="1620285711549" />
-    <state width="1345" height="148" key="GridCell.Tab.0.left" timestamp="1620285711549">
+    <state width="1345" height="148" key="GridCell.Tab.0.center/0.0.1366.728/-292.-1080.1920.1040@0.0.1366.728" timestamp="1622099169395" />
+    <state width="1345" height="148" key="GridCell.Tab.0.left" timestamp="1622099169394">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="148" key="GridCell.Tab.0.left/0.0.1366.728/-292.-1080.1920.1040@0.0.1366.728" timestamp="1620285711549" />
-    <state width="1345" height="148" key="GridCell.Tab.0.right" timestamp="1620285711549">
+    <state width="1345" height="148" key="GridCell.Tab.0.left/0.0.1366.728/-292.-1080.1920.1040@0.0.1366.728" timestamp="1622099169394" />
+    <state width="1345" height="148" key="GridCell.Tab.0.right" timestamp="1622099169395">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="148" key="GridCell.Tab.0.right/0.0.1366.728/-292.-1080.1920.1040@0.0.1366.728" timestamp="1620285711549" />
+    <state width="1345" height="148" key="GridCell.Tab.0.right/0.0.1366.728/-292.-1080.1920.1040@0.0.1366.728" timestamp="1622099169395" />
     <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1618473796617">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -295,25 +305,29 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728/-292.-1080.1920.1040@0.0.1366.728" timestamp="1618473796617" />
-    <state x="-131" y="-970" width="1698" height="823" key="MergeDialog" timestamp="1620718175000">
-      <screen x="-292" y="-1080" width="1920" height="1040" />
+    <state x="115" y="77" width="1698" height="823" key="MergeDialog" timestamp="1621494448883">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="-131" y="-970" width="1698" height="823" key="MergeDialog/0.0.1366.728/-292.-1080.1920.1040@-292.-1080.1920.1040" timestamp="1620718175000" />
-    <state x="46" y="0" key="SettingsEditor" timestamp="1620284253659">
+    <state x="115" y="77" key="MergeDialog/0.0.1366.728/-292.-1080.1920.1040@0.0.1366.728" timestamp="1621494448883" />
+    <state x="46" y="0" key="SettingsEditor" timestamp="1622098237402">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="46" y="0" key="SettingsEditor/0.0.1366.728/-292.-1080.1920.1040@0.0.1366.728" timestamp="1620284253659" />
-    <state x="260" y="-827" key="Vcs.Push.Dialog.v2" timestamp="1620717784210">
-      <screen x="-292" y="-1080" width="1920" height="1040" />
+    <state x="46" y="0" key="SettingsEditor/0.0.1366.728/-292.-1080.1920.1040@0.0.1366.728" timestamp="1622098237402" />
+    <state x="393" y="177" key="Vcs.Push.Dialog.v2" timestamp="1621494498936">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="260" y="-827" key="Vcs.Push.Dialog.v2/0.0.1366.728/-292.-1080.1920.1040@-292.-1080.1920.1040" timestamp="1620717784210" />
-    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620285622031">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/-292.-1080.1920.1040@0.0.1366.728" timestamp="1620285622031" />
-    <state x="446" y="-847" key="git4idea.branch.GitSmartOperationDialog" timestamp="1620718206242">
+    <state x="393" y="177" key="Vcs.Push.Dialog.v2/0.0.1366.728/-292.-1080.1920.1040@0.0.1366.728" timestamp="1621494498936" />
+    <state x="400" y="-683" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1622097369705">
       <screen x="-292" y="-1080" width="1920" height="1040" />
     </state>
+    <state x="400" y="-683" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/-292.-1080.1920.1040@-292.-1080.1920.1040" timestamp="1622097369705" />
+    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/-292.-1080.1920.1040@0.0.1366.728" timestamp="1620285622031" />
+    <state x="525" y="154" key="git4idea.branch.GitSmartOperationDialog" timestamp="1621494422376">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
     <state x="446" y="-847" key="git4idea.branch.GitSmartOperationDialog/0.0.1366.728/-292.-1080.1920.1040@-292.-1080.1920.1040" timestamp="1620718206242" />
+    <state x="525" y="154" key="git4idea.branch.GitSmartOperationDialog/0.0.1366.728/-292.-1080.1920.1040@0.0.1366.728" timestamp="1621494422376" />
   </component>
 </project>
